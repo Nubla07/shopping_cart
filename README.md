@@ -1,4 +1,12 @@
 # shopping_cart
+#output1
+![output1](https://github.com/Nubla07/shopping_cart/assets/143005842/ceb280a9-6a60-46e2-98f0-fed59426442c)
+
+#output2
+![output2](https://github.com/Nubla07/shopping_cart/assets/143005842/11a57f57-f9eb-465d-a51e-e45c280a527a)
+
+
+
 
 A new Flutter project.
 
